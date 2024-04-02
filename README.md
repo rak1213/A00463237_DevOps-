@@ -1,4 +1,6 @@
-# Hello Canada....
+## A00463237 React Assignment
+
+## Hello Canada....
 
 Hello Canada, is a simple demo app that showcases the provinces and territories of Canada. It was built using Create React App, a popular tool for bootstrapping React applications.
 
@@ -28,13 +30,5 @@ To deploy Hello Canada to a production environment, follow these steps:
 
 Contributions to Hello Canada are welcome! If you find a bug or have a feature request, please open an issue on the [GitHub repository](https://github.com/your-username/hello-canada).
 
-## Learn More
+## Testing
 
-To learn more about Create React App and React, check out the following resources:
-
-- [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-- [React documentation](https://reactjs.org/)
-
-## License
-
-Hello Canada is open source and released under the [MIT License](https://opensource.org/licenses/MIT).
